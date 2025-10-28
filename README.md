@@ -16,7 +16,9 @@ It includes configuration for **ESLint**, **Prettier**, and **Nodemon**, allowin
 1. Click **"Use this template"** at the top of this repository.
 2. Choose **"Create a new repository"**.
 3. Fill in the repository details (name, description, visibility).
-4. Start developing your app 🚀
+4. Clone your new repository: `git clone https://github.com/<your-username>/<your-repo>.git`
+5. Install dependencies: `npm install`
+6. Start developing your app 🚀
 
 ---
 
